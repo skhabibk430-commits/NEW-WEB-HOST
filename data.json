@@ -1,0 +1,29 @@
+{
+  "servers": {
+    "Jihad": {
+      "name": "Jihad",
+      "owner": "admin",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "bot.py",
+      "main_command": "",
+      "port": 8080,
+      "pid": 4944,
+      "created": "2026-07-05T03:01:14.812462"
+    }
+  },
+  "users": {
+    "admin": {
+      "joined": "2026-07-05T03:01:05.012141",
+      "password_hash": "e425b2cf21ea25addfb17a0e16ccec980e1a9f1b7c03e5915f1c764392bbfdbe"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#00ff41",
+    "normal_password": "shappno",
+    "site_name": "SHAPPNO VPS",
+    "auto_restart_interval": 300
+  }
+}
