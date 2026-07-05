@@ -23,7 +23,7 @@ DATA_FILE = BASE_DIR / "data.json"
 SERVERS_DIR = BASE_DIR / "servers"
 SERVERS_DIR.mkdir(exist_ok=True)
 
-NORMAL_PASSWORD = os.environ.get("NORMAL_PASSWORD", "shappno")
+NORMAL_PASSWORD = os.environ.get("NORMAL_PASSWORD", "00")
 
 RUNNING_PROCESSES = {}
 
